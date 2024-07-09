@@ -1,0 +1,42 @@
+/* JarCount.css */
+
+.dashboard {
+    padding: 20px;
+}
+
+h1, h2 {
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+    color: black; /* Ensure headings are visible */
+}
+
+label {
+    font-family: Arial, sans-serif;
+    margin-right: 10px;
+    font-weight: bold;
+    color: black; /* Ensure label is visible */
+}
+
+#date-picker {
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+}
+
+.data-table th, .data-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: black; /* Ensure text is visible */
+    background-color: white; /* Ensure background is white */
+}
+
+.data-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}

@@ -1,0 +1,47 @@
+.jar-count {
+    margin: 20px;
+}
+
+.jar-count label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.jar-count h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.jar-count-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.jar-count-table th, .jar-count-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.jar-count-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.jar-count-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.jar-count-table tr:hover {
+    background-color: #ddd;
+}
+
+.jar-count-table th, .jar-count-table td {
+    padding: 12px;
+    text-align: left;
+}
+
+.jar-count-table th {
+    background-color: #f2f2f2;
+    color: black;
+}
